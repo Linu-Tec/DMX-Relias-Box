@@ -1,6 +1,12 @@
 # DMX-Relias-Box
 DMX Relias Box
 
+Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/7_segment_with_7_Servo_7_Segment_mit_7_Servos_Siebensegmentanzeige_8ec3965a.html
+
+Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/ image
+
+Benötigte Bauteile:
+
 
 ![photo_2023-09-10_13-19-38](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/7169eec6-84a3-4750-9896-1f4e7fee9bf6)
 ![photo_2023-09-10_13-19-43](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/319099a2-011c-44a9-87ff-d419ac746d87)
