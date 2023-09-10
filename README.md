@@ -22,6 +22,9 @@ Benötigte Bauteile:
 
 2x Buchsenleiste, gerade, 15pol, 2,54mm
 
+Video: https://youtu.be/Cqg3w-qxOvc?si=H_FwXtm7MmmbeHvP
+
+
 Bilderserie löten:
 
 ![photo_2023-09-10_13-19-38](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/7169eec6-84a3-4750-9896-1f4e7fee9bf6)
