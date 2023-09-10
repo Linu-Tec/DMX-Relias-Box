@@ -7,14 +7,22 @@ Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 ![image](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/1870a818-791c-4230-a368-918b2b084c34)
 
 
+
 Benötigte Bauteile:
+
 4x Taster 6x6mm
+
 4x Widerstände 1kOhm
+
 1x Arduino Nano
+
 1x Max485
+
 1x IC-Sockel, 8-polig
+
 2x Buchsenleiste, gerade, 15pol, 2,54mm
 
+Bilderserie löten:
 
 ![photo_2023-09-10_13-19-38](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/7169eec6-84a3-4750-9896-1f4e7fee9bf6)
 ![photo_2023-09-10_13-19-43](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/319099a2-011c-44a9-87ff-d419ac746d87)
