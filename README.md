@@ -1,11 +1,19 @@
 # DMX-Relias-Box
 DMX Relias Box
 
-Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/7_segment_with_7_Servo_7_Segment_mit_7_Servos_Siebensegmentanzeige_8ec3965a.html
+Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/DMX_Relias_Box_8fac3e5b.html
 
-Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/ image
+Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
+![image](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/1870a818-791c-4230-a368-918b2b084c34)
+
 
 Benötigte Bauteile:
+4x Taster 6x6mm
+4x Widerstände 1kOhm
+1x Arduino Nano
+1x Max485
+1x IC-Sockel, 8-polig
+2x Buchsenleiste, gerade, 15pol, 2,54mm
 
 
 ![photo_2023-09-10_13-19-38](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/7169eec6-84a3-4750-9896-1f4e7fee9bf6)
