@@ -22,7 +22,7 @@ Benötigte Bauteile:
 
 2x Buchsenleiste, gerade, 15pol, 2,54mm
 
-Video: https://youtu.be/Cqg3w-qxOvc?si=H_FwXtm7MmmbeHvP
+Video: https://youtu.be/mFOmhPSm-q4?si=cBSFVjj2grrLBD6L
 
 
 Bilderserie löten:
