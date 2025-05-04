@@ -3,6 +3,8 @@ DMX Relias Box
 
 Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/DMX_Relias_Box_8fac3e5b.html
 
+Neue Version von den Platinen V2: [Hauptplatine](https://www.pcbway.com/project/shareproject/DMX_Relias_Box_V2_Hauptplatine_bb684132.html) [Tasterplatine](https://www.pcbway.com/project/shareproject/DMX_Relias_Box_V2_Tasterplatine_1937a8f5.html)
+
 Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 ![image](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/1870a818-791c-4230-a368-918b2b084c34)
 
