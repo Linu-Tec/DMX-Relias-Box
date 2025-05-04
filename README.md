@@ -30,8 +30,27 @@ Benötigte Bauteile:
 [Video V2](https://youtu.be/8dnrdr6ObjY?si=aLC24d93slA3hnTl)
 
 
+Bilder V2:
+![IMG_20250504_140948](https://github.com/user-attachments/assets/f290c9fc-6235-468c-922e-324e2d7c4cc2)
+![IMG_20250504_140959](https://github.com/user-attachments/assets/ecbae434-3f37-4f9c-b955-5f4c5ec92346)
+![IMG_20250504_141010](https://github.com/user-attachments/assets/028777f5-2fe3-4ef7-995b-f8bc673ba9c3)
+![IMG_20250504_141013](https://github.com/user-attachments/assets/3e07185c-e7cd-4b15-a234-ddc289e487ea)
+![IMG_20250504_141023](https://github.com/user-attachments/assets/aea62058-9e98-4f7e-ae00-630e3fcba0b4)
+![IMG_20250504_141028](https://github.com/user-attachments/assets/958d34d9-fc6d-4a76-bc31-4f91a3673bed)
+![IMG_20250504_140938](https://github.com/user-attachments/assets/a922bcc9-dc0e-4323-ba06-8aecb5e22dbf)
+![IMG_20250504_141015](https://github.com/user-attachments/assets/453bc513-136b-4b1f-b205-6123b0b98265)
+![IMG_20250504_141247](https://github.com/user-attachments/assets/524f2aa3-f7b4-4519-982e-7ece58b811de)
+![IMG_20250504_141249](https://github.com/user-attachments/assets/cc00f7dd-d997-4a71-820b-04ca69c2c6f8)
+![IMG_20250504_141253](https://github.com/user-attachments/assets/e290fb03-7c23-4d83-a42c-6a82b726e5b9)
+![IMG_20250504_141257](https://github.com/user-attachments/assets/e0eaed89-9930-4240-90c1-f0e80b3fa376)
+![IMG_20250504_141305](https://github.com/user-attachments/assets/d0561d66-8089-410a-93c7-372b1fdceba8)
+![IMG_20250504_141329](https://github.com/user-attachments/assets/e8e3a801-03e1-4c6d-8f32-fc52988fb609)
 
-Bilderserie löten:
+
+
+
+
+Bilderserie löten V1:
 
 ![photo_2023-09-10_13-19-38](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/7169eec6-84a3-4750-9896-1f4e7fee9bf6)
 ![photo_2023-09-10_13-19-43](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/319099a2-011c-44a9-87ff-d419ac746d87)
