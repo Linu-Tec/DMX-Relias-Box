@@ -1,0 +1,12 @@
+# === Arduino IDE / PlatformIO ===
+build/
+bin/
+*.elf
+*.hex
+*.o
+
+# === KiCad / Eagle Backups ===
+*.bak
+*.lck
+*~
+_autosave-*
