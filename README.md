@@ -1,5 +1,62 @@
+# ⚡ DMX Relais-Box (DMX Relay Box)
+
+Ein robustes, DMX-gesteuertes Schaltsystem auf Basis eines Arduino Nano. Die Box ermöglicht das sichere Schalten von externen 230V-Netzlasten, Effekten oder Lüftern über ein Standard-DMX-512-Lichtsignal (mittels MAX485 Transceiver).
+
+Das Projekt unterstützt sowohl die klassische V1-Variante als auch das modernisierte V2-Hauptplatinen-System.
+
+---
+
+## 📋 Stückliste (Bill of Materials)
+
+Hier findest du alle elektronischen Komponenten, die für den Aufbau der Steuereinheit benötigt werden.
+
+### 🟩 Hauptplatine & Bedienelemente (V1 & V2)
+
+| Status | Bauteil | Beschreibung | Menge | Gehäuse / Typ |
+| :---: | :--- | :--- | :---: | :--- |
+| 🧠 | **Arduino Nano** | Haupt-Mikrocontroller zur DMX-Signalverarbeitung | 1 | THT / DIP-30 |
+| 📡 | **MAX485** | RS-485 Transceiver-IC für den DMX-Bus | 1 | DIP-8 |
+| 🔲 | **IC-Sockel** | Schutz- und Wechselsockel für den MAX485 | 1 | 8-polig THT |
+| 🔌 | **Buchsenleisten** | Trägersockel für den Arduino Nano | 2 | 15-polig, gerade, 2.54mm |
+| 🔘 | **Taster** | Bedienelemente für Modus / Adressierung | 4 | 6x6mm Kurzhubtaster |
+| 🥢 | **Widerstände** | Pull-up / Schutzwiderstände | 4 | 1 kΩ (THT oder 0805) |
+
+### 🎛️ Relais- & Leistungstreiber-Schnittstelle
+
+| Status | Bauteil | Beschreibung | Menge | Gehäuse / Typ |
+| :---: | :--- | :--- | :---: | :--- |
+| 🔌 | **Schraubklemmen** | Signalausgänge zur Ansteuerung der Relaiskarte | 1 Satz| THT (5.08mm Pitch) |
+| 🔲 | **Relais-Modul** | Externe Relaisplatine (z. B. 4-Kanal/8-Kanal Optokoppler-Karte) | 1 | Modul-Baugruppe |
+| 🔴 | **Status-LEDs** | Optionale Kontroll-LEDs für aktive Relaiskanäle | Je nach V. | 3mm / 5mm THT |
+
+---
+
+## 🛠️ Technische Spezifikationen
+
+* **Protokoll:** DMX-512 Standard über XLR (Pins: GND, Data-, Data+).
+* **Adressierung:** Manuelle Adresskonfiguration oder vordefinierte Startadresse direkt im Quellcode.
+* **Galvanische Trennung:** Empfohlen über opto-isolierte Relaiskarten am Ausgang, um Schaltstörungen (Schutzdrähte/Induktivitäten) vom Arduino fernzuhalten.
+
+---
+
+## 📂 Repository-Struktur
+
+* `/hardware` - Schaltpläne, KiCad-Projektdateien und fertige Gerber-Daten für die Platinenbestellung.
+* `/code` - Arduino-Firmware (`.ino`) zur Dekodierung der DMX-Kanäle und Schalten der Digital-Pins.
+* `/Platine` - Bilddateien und Renderings des Platinenlayouts.
+
+---
+
+## 📝 Lizenz
+
+Dieses Projekt steht unter der **MIT-Lizenz**. Genauere Informationen findest du in der Datei `LICENSE`.
+
+
+
+
+
+
 # DMX-Relias-Box
-DMX Relias Box
 
 Hier ist der Link zu den [Platinen V1](https://www.pcbway.com/project/shareproject/DMX_Relias_Box_8fac3e5b.html)
 
@@ -9,20 +66,6 @@ Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 ![image](https://github.com/18-Sunil-18/DMX-Relias-Box/assets/70856050/1870a818-791c-4230-a368-918b2b084c34)
 
 
-
-Benötigte Bauteile:
-
-4x Taster 6x6mm
-
-4x Widerstände 1kOhm
-
-1x Arduino Nano
-
-1x Max485
-
-1x IC-Sockel, 8-polig
-
-2x Buchsenleiste, gerade, 15pol, 2,54mm
 
 
 [Video V1](https://youtu.be/mFOmhPSm-q4?si=2qEoBcIcXKhV_Nbe)
